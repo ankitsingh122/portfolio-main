@@ -73,65 +73,57 @@ export const projects = [
   {
     id: 1,
     title: "Amexa Exchange",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
-    img: "/p1.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
+    des: " A cryptocurrency exchange platform with a focus on security and speed.",
+    img: "/amexa.png",
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/fm.svg"],
     link: "www.amexa.exchange",
   },
   {
     id: 2,
-    title: "Yoom - Video Conferencing App",
-    des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
-    img: "/p2.svg",
+    title: "Mica Wallet",
+    des: " Mica Wallet is a decentralized wallet that allows users to store and manage their crypto assets.",
+    img: "/mica.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "/ui.yoom.com",
+    link: "micawallet.com",
   },
   {
     id: 3,
-    title: "AI Image SaaS - Canva Application",
-    des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
-    img: "/p3.svg",
+    title: "Inlexso (AI Transcript)",
+    des: "Inlexso is an AI-powered transcription service that converts audio files into text.",
+    img: "/Inlexso.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "/ui.aiimg.com",
-  },
-  {
-    id: 4,
-    title: "Animated Apple Iphone 3D Website",
-    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-    img: "/p4.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "/ui.apple.com",
+    link: "virtualconsultant.co.za",
   },
 ];
 
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with Ankit was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Ankit's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Ankit is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with Ankit was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Ankit's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Ankit is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with Ankit was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Ankit's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Ankit is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with Ankit was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Ankit's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Ankit is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with Ankit was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Ankit's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Ankit is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
@@ -205,13 +197,16 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
+    link: "https://github.com/ankitsingh122",
   },
   {
     id: 2,
     img: "/twit.svg",
+    link: "https://x.com/ankit128901196",
   },
   {
     id: 3,
     img: "/link.svg",
+    link: "https://www.linkedin.com/in/ankitsingh122",
   },
 ];
